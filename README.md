@@ -1,11 +1,7 @@
 ## Hi there, I'm HemendraJawariya! 👋
 <!--🔭 Student at Massai -->
 
-<div align="center">
-  <a href="https://github.com/HemendraJawariya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HemendraJawariya&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemendraJawariya&layout=compact"/>
-</div>
+
   
 
 
